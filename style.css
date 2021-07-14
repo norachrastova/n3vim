@@ -22,7 +22,6 @@ h1 {
   }
   
 .obrazek {
-    border: 3px solid red;
     display: flex;
     width: 300px;
 }
@@ -35,7 +34,15 @@ h1 {
 }
 
 
-#hlavni-obrazek{
+#hlavni-obrazek {
     width: 500px;
     height: 500px;
+}
+
+#petr {
+    border: 3px solid black; 
+}
+
+#lucka {
+    border: 3px solid black;
 }
