@@ -6,12 +6,16 @@ h1 {
     font-family:'Montserrat', sans-serif;
   }
 
-<<<<<<< HEAD
-  
-=======
-
   img {
     width: 250px;
     height: 250px;
   }
->>>>>>> ded5192657e7fa12704fcac30021af1ab4e523d9
+
+  .petr {
+    font-size: 20px;
+  }
+
+  .lucka {
+      font-size: 20px;
+  }
+  
