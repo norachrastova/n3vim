@@ -27,3 +27,15 @@ h1 {
     width: 300px;
 }
 
+
+
+.flex {
+    display: flex;
+    
+}
+
+
+#hlavni-obrazek{
+    width: 500px;
+    height: 500px;
+}
