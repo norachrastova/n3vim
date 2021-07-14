@@ -21,3 +21,9 @@ h1 {
       font-size: 20px;
   }
   
+.obrazek {
+    border: 3px solid red;
+    display: flex;
+    width: 300px;
+}
+
