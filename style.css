@@ -50,6 +50,8 @@ img {
 .zacatek {
     background-color: rgb(255, 255, 255);
     font-family: 'Montserrat', sans-serif;
+    display: flex; 
+    justify-content: center;
 }
 
 .jak-fungujeme {
@@ -73,5 +75,11 @@ img {
     display: flex;
     justify-content: space-between;
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
 
 
