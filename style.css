@@ -98,5 +98,18 @@ img {
 
 .qrcode {
     border: 3px solid black; 
+
+}
+
+.nadpis {
+    background-color: rgba(142, 208, 228, 0.705); 
+}
+
+.nadpis1 {
+    background-color: rgba(142, 208, 228, 0.705); 
+}
+
+.nadpis2 {
+    background-color: rgba(142, 208, 228, 0.705); 
 }
 
