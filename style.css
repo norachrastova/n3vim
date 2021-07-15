@@ -47,3 +47,22 @@ h1 {
     border: 3px solid black;
 }
 
+.zacatek {
+    background-color: rgba(208, 246, 255, 0.938);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.jak-fungujeme {
+    background-color: rgba(208, 246, 255, 0.938);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.vlastnis {
+    background-color: rgba(208, 246, 255, 0.938);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.tabulky {
+    border: 3px solid black;
+}
+}
