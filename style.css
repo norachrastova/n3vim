@@ -1,3 +1,7 @@
+body {
+    background: lightblue url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/assortment-of-colorful-ripe-tropical-fruits-top-royalty-free-image-995518546-1564092355.jpg") no-repeat fixed center;
+    color: white;
+}
 h1 {
     font-size: 40px;
 }
@@ -22,6 +26,7 @@ h1 {
   }
   
 .obrazek {
+    border: 3px solid red;
     display: flex;
     width: 300px;
 }
@@ -38,6 +43,7 @@ h1 {
     width: 500px;
     height: 500px;
 }
+
 
 #petr {
     border: 3px solid black; 
@@ -64,5 +70,4 @@ h1 {
 
 .tabulky {
     border: 3px solid black;
-}
 }
