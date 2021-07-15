@@ -96,4 +96,7 @@ img {
     height: 100px;
 }
 
+.qrcode {
+    border: 3px solid black; 
+}
 
