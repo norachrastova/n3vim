@@ -1,5 +1,5 @@
 body {
-    background: lightblue url("https://i.pinimg.com/originals/13/91/14/1391140e90db2a2ae069caea7546faba.jpg") no-repeat fixed center;
+    background-color: rgb(200, 228, 238);
     color: black;
 }
 h1 {
@@ -11,8 +11,8 @@ h1 {
   }
 
 img {
-    width: 250px;
-    height: 250px;
+    width: 400px;
+    height: 400px;
   }
 
 .petr {
@@ -35,8 +35,8 @@ img {
 }
 
 #hlavni-obrazek {
-    width: 500px;
-    height: 500px;
+    width: 700px;
+    height: 700px;
 }
 
 #petr {
@@ -73,3 +73,5 @@ img {
     display: flex;
     justify-content: space-between;
 }
+
+
