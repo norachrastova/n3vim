@@ -10,18 +10,16 @@ h1 {
     font-family:'Montserrat', sans-serif;
   }
 
-  
-
-  img {
+img {
     width: 250px;
     height: 250px;
   }
 
-  .petr {
+.petr {
     font-size: 20px;
   }
 
-  .lucka {
+.lucka {
       font-size: 20px;
   }
   
@@ -31,19 +29,15 @@ h1 {
     width: 300px;
 }
 
-
-
 .flex {
     display: flex;
     
 }
 
-
 #hlavni-obrazek {
     width: 500px;
     height: 500px;
 }
-
 
 #petr {
     border: 3px solid black; 
