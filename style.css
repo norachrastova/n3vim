@@ -1,6 +1,6 @@
 body {
-    background: lightblue url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/assortment-of-colorful-ripe-tropical-fruits-top-royalty-free-image-995518546-1564092355.jpg") no-repeat fixed center;
-    color: white;
+    background: lightblue url("https://i.pinimg.com/originals/13/91/14/1391140e90db2a2ae069caea7546faba.jpg") no-repeat fixed center;
+    color: black;
 }
 h1 {
     font-size: 40px;
@@ -48,17 +48,16 @@ img {
 }
 
 .zacatek {
-    background-color: rgba(208, 246, 255, 0.938);
+    background-color: rgb(255, 255, 255);
     font-family: 'Montserrat', sans-serif;
 }
 
 .jak-fungujeme {
-    background-color: rgba(208, 246, 255, 0.938);
     font-family: 'Montserrat', sans-serif;
 }
 
 .vlastnis {
-    background-color: rgba(208, 246, 255, 0.938);
+    background-color: rgb(255, 255, 255);
     font-family: 'Montserrat', sans-serif;
 }
 
