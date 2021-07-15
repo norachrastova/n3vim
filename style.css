@@ -97,7 +97,8 @@ img {
 }
 
 .qrcode {
-    border: 3px solid black; 
+    display: flex;
+    justify-content: space-around;
 
 }
 
