@@ -34,11 +34,6 @@ img {
     
 }
 
-#hlavni-obrazek {
-    width: 700px;
-    height: 700px;
-}
-
 #petr {
     border: 3px solid black; 
 }
@@ -48,7 +43,7 @@ img {
 }
 
 .zacatek {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(154, 222, 240);
     font-family: 'Montserrat', sans-serif;
     display: flex; 
     justify-content: center;
@@ -82,5 +77,17 @@ img {
     justify-content: center;
 }
 
+.zacatek {
+    width: 100%;
+    height: 500px;
+    background-image: url("https://www.linkos.cz/files/pro_pacienty/ikony_s_pozadim/socialni_podpora.png?h=f3c");
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.background {
+    background-color: rgba(255, 255, 255, 0.705);
+}
 
 
