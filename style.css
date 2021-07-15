@@ -70,4 +70,14 @@ h1 {
 
 .tabulky {
     border: 3px solid black;
+    width: 400px;
+}
+
+.formular {
+    width: 400px;
+}
+
+.mb-3 {
+    display: flex;
+    justify-content: space-between;
 }
